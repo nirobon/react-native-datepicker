@@ -17,6 +17,7 @@ let style = StyleSheet.create({
     marginRight: 5
   },
   dateInput: {
+    left:-20,
     flex: 1,
     height: 40,
     borderColor: '#aaa',
