@@ -6,7 +6,7 @@ let style = StyleSheet.create({
   },
   dateTouchBody: {
     flexDirection: 'row',
-    height: 40,
+    height: 28,
     alignItems: 'center',
     justifyContent: 'center'
   },
@@ -17,8 +17,9 @@ let style = StyleSheet.create({
     marginRight: 5
   },
   dateInput: {
+    left:-55,
     flex: 1,
-    height: 40,
+    height: 30,
     borderColor: '#aaa',
     alignItems: 'center',
     justifyContent: 'center'
@@ -50,7 +51,7 @@ let style = StyleSheet.create({
     justifyContent: 'center'
   },
   btnTextText: {
-    fontSize: 16,
+    fontSize: 20,
     color: '#46cf98'
   },
   btnTextCancel: {
