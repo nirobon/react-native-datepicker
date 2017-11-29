@@ -17,7 +17,7 @@ let style = StyleSheet.create({
     marginRight: 5
   },
   dateInput: {
-    left:-55,
+   left:-30,
     flex: 1,
     height: 30,
     borderColor: '#aaa',
@@ -25,7 +25,7 @@ let style = StyleSheet.create({
     justifyContent: 'center'
   },
   dateText: {
-    color: '#333'
+    color: 'white'
   },
   placeholderText: {
     color: '#c9c9c9'
