@@ -26,7 +26,6 @@ let style = StyleSheet.create({
   },
   dateText: {
     color: 'white',
-     fontFamily:'Montserrat-Regular',
   },
   placeholderText: {
     color: '#c9c9c9'
